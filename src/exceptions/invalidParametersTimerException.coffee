@@ -1,0 +1,1 @@
+class invalidParametersTimerException extends timerException

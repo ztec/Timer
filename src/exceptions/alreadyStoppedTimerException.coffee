@@ -1,0 +1,1 @@
+class alreadyStoppedTimerException extends timerException

@@ -1,0 +1,1 @@
+class badIntervalTimerException extends timerException
